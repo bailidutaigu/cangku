@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         学习通 / 超星 网课助手 Pro
-// @namespace    https://local.cxhelper
+// @namespace    https://github.com/bailidutaigu/cangku
 // @version      3.2.0
-// @downloadURL  https://example.com/cx-helper.user.js
-// @updateURL    https://example.com/cx-helper.user.js
+// @downloadURL  https://raw.githubusercontent.com/bailidutaigu/cangku/main/cx-helper.user.js
+// @updateURL    https://raw.githubusercontent.com/bailidutaigu/cangku/main/cx-helper.user.js
 // @description  自动播放 · 自定倍速 · 静音 · 跨frame自动下一节 · AI答题自动提交 · 文档/PPT自动翻页 · 防挂机保活
 // @author       local
 // @match        *://*.chaoxing.com/*
